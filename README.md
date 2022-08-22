@@ -1,5 +1,6 @@
 ### Reactle
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8459f1a642c64420844b8dc5d1e8ffa2)](https://app.codacy.com/gh/ar563/reactle?utm_source=github.com&utm_medium=referral&utm_content=ar563/reactle&utm_campaign=Badge_Grade_Settings)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/artix160722/Reactle.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/artix160722/Reactle/context:javascript)[![LinkCheck](https://github.com/ar563/Reactle/actions/workflows/linkcheck.yml/badge.svg)](https://github.com/ar563/Reactle/actions/workflows/linkcheck.yml)[![Lint](https://github.com/ar563/Reactle/actions/workflows/lint.yml/badge.svg)](https://github.com/ar563/Reactle/actions/workflows/lint.yml)[![Test](https://github.com/ar563/Reactle/actions/workflows/test.yml/badge.svg)](https://github.com/ar563/Reactle/actions/workflows/test.yml)
 
 This is a clone project of the popular word guessing game we all know and love. Made using React, Typescript, and Tailwind.
