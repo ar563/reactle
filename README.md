@@ -1,6 +1,6 @@
 ### Reactle
 
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/artix160722/Reactle.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/artix160722/Reactle/context:javascript)[![LinkCheck](https://github.com/ar563/Reactle/actions/workflows/linkcheck.yml/badge.svg)](https://github.com/ar563/Reactle/actions/workflows/linkcheck.yml)[![Lint](https://github.com/ar563/Reactle/actions/workflows/lint.yml/badge.svg)](https://github.com/ar563/Reactle/actions/workflows/lint.yml)[![Test](https://github.com/ar563/Reactle/actions/workflows/test.yml/badge.svg)](https://github.com/ar563/Reactle/actions/workflows/test.yml)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a18e5094bed349a28ba8b1bf7b9fec67)](https://www.codacy.com/gh/ar563/reactle/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ar563/reactle&amp;utm_campaign=Badge_Grade)[![LinkCheck](https://github.com/ar563/Reactle/actions/workflows/linkcheck.yml/badge.svg)](https://github.com/ar563/Reactle/actions/workflows/linkcheck.yml)[![Lint](https://github.com/ar563/Reactle/actions/workflows/lint.yml/badge.svg)](https://github.com/ar563/Reactle/actions/workflows/lint.yml)[![Test](https://github.com/ar563/Reactle/actions/workflows/test.yml/badge.svg)](https://github.com/ar563/Reactle/actions/workflows/test.yml)
 
 This is a clone project of the popular word guessing game we all know and love. Made using React, Typescript, and Tailwind.
 
