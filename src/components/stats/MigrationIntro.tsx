@@ -1,4 +1,4 @@
-import { LogoutIcon } from '@heroicons/react/outline'
+import { LogoutIcon } from '@heroicons/react/24/outline'
 
 import {
   MIGRATE_BUTTON_TEXT,
