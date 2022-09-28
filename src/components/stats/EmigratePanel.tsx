@@ -1,4 +1,4 @@
-import { DuplicateIcon } from '@heroicons/react/outline'
+import { DuplicateIcon } from '@heroicons/react/24/outline'
 import { useState } from 'react'
 
 import { copyTextToClipboard } from '../../lib/clipboard'
