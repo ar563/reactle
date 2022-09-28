@@ -1,4 +1,4 @@
-import { SaveIcon } from '@heroicons/react/outline'
+import { SaveIcon } from '@heroicons/react/24/outline'
 import { useState } from 'react'
 
 import { decrypt } from '../../lib/encryption'
